@@ -28,4 +28,9 @@ public class Class1
     return password;
     }
 
+    public string testOfPassword()
+    {
+        return "A Test Password";
+    }
+
 }
